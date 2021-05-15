@@ -22,3 +22,12 @@ input{
 	margin: 8px;
 	align-self: center;
 }
+/* Border-radius value 25px shapes the corners to rounded corners.
+	height: 300px;
+	position: absolute;
+	top:0;
+	left: 0;
+	right: 0;
+	margin: auto;
+-The above css styling code places the element at the center of the page.
+input froom above styles all the inputs*/
